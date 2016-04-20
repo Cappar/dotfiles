@@ -46,3 +46,4 @@ VirtualBox/
 Trolltech.conf
 QtProject.conf
 =
+nvim/bundle/

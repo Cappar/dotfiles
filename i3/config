@@ -196,3 +196,9 @@ bindsym Control+Mod1+l exec sh ~/.config/lock.sh; exec ~/.localbin/wallpaper app
 bindsym Control+Alt+n exec mpc next  
 
 new_window pixel 1 
+
+# Gaps Specific stuff
+gaps inner 8 
+gaps outer 5
+
+
