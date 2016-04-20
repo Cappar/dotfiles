@@ -1,0 +1,59 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 734,
+       "width": 1366,
+       "x": 0,
+       "y": 0
+    },
+    "name": "i3: Layout saving in i3 - Vimperator",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Firefox$",
+       // "instance": "^Navigator$",
+       // "title": "^i3\\:\\ Layout\\ saving\\ in\\ i3\\ \\-\\ Vimperator$",
+       // "transient_for": "^$",
+       // "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    // splitv split container with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 734,
+               "width": 1366,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Algorithms and Data Structures (INF5) - Lecture-6.pdf - Vimperator",
+            "percent": 1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Algorithms\\ and\\ Data\\ Structures\\ \\(INF5\\)\\ \\-\\ Lecture\\-6\\.pdf\\ \\-\\ Vimperator$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
