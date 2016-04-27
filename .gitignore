@@ -47,3 +47,6 @@ Trolltech.conf
 QtProject.conf
 =
 nvim/bundle/
+mpd/log
+mps-youtube/cache_py_3.5.1
+mps-youtube/input_history
